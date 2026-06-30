@@ -17,9 +17,6 @@ CivicLoop is an AI-powered civic issue reporting platform that helps citizens re
 - **Karma points** with mock business rewards
 - **Community verification** (upvote/confirm)
 
-### Tier 3 — Stretch (Simulated)
-- Accelerometer integration (demo-ready)
-- Government API routing (mock)
 
 ## 🛠️ Tech Stack
 
