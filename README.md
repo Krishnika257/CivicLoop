@@ -32,4 +32,3 @@ CivicLoop is an AI-powered civic issue reporting platform that helps citizens re
 | AI | Google Gemini API (1.5 Flash) |
 | Hosting | Vercel (frontend) + Firebase (services) |
 
-## 📦 Project Structure
